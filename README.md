@@ -1,12 +1,5 @@
-### Hi there 👋
-
-<!--
-**ambeeman/ambeeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# GOVAXON-TECHNOLOGIES
-GOVAXON TECHNOLOGIES PROFILE PUSHES AND COLLABORATIONS
+# GOVAXON-TECHNOLOGI00ES
+A B D U L L A H I. A M I N U PROFILE PUSHES AND COLLABORATIONS
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, This is GOVAXON TECHNOLOGIES</h1>
 <h3 align="center">A SOftware and Information Technology Company, REady to transforn the African Youths Into Real World Techs</h3>
@@ -35,7 +28,7 @@ GOVAXON TECHNOLOGIES PROFILE PUSHES AND COLLABORATIONS
 - 👯 I’m looking to collaborate on **any workspace or web dev**
 - 🤔 Looking Techs Oppunity **Unlock your dieas with us**
 - 💬 Ask me about ...
-- 📫 How to reach me: Via Email: **govaxontechs@gmail.com
+- 📫 How to reach me: Via Email: **govaxontechs@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **#DoingHardThings**
 -->
@@ -51,7 +44,5 @@ GOVAXON TECHNOLOGIES PROFILE PUSHES AND COLLABORATIONS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ambeeman&show_icons=true&locale=en" alt="ambeeman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ambeeman&" alt="ambeeman" /></p>
-
-
 
 
