@@ -1,4 +1,4 @@
-# GOVAXON-TECHNOLOGI00ES
+# GOVAXON-TECHNOLOGIES
 A B D U L L A H I. A M I N U PROFILE PUSHES AND COLLABORATIONS
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, This is GOVAXON TECHNOLOGIES</h1>
