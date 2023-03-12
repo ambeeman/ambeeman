@@ -1,8 +1,8 @@
-# GOVAXON-TECHNOLOGIES
+# Beta+-Technologies
 A B D U L L A H I. A M I N U PROFILE PUSHES AND COLLABORATIONS
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, This is GOVAXON TECHNOLOGIES</h1>
-<h3 align="center">A SOftware and Information Technology Company, REady to transforn the African Youths Into Real World Techs</h3>
+<h1 align="center">Hi 👋, This is Beta+-Technologies</h1>
+<h3 align="center">A Software and Information Technology Company, ready to transforn the African Youths into the real world techs</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
