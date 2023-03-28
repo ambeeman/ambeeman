@@ -28,7 +28,7 @@ A B D U L L A H I. A M I N U PROFILE PUSHES AND COLLABORATIONS
 - 👯 I’m looking to collaborate on **any workspace or web dev**
 - 🤔 Looking Techs Oppunity **Unlock your dieas with us**
 - 💬 Ask me about ...
-- 📫 How to reach me: Via Email: **govaxontechs@gmail.com**
+- 📫 How to reach me: Via Email: **abdoulalbpop1@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **#DoingHardThings**
 -->
