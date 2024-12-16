@@ -1,8 +1,8 @@
-# Beta+-Technologies
-A B D U L L A H I. A M I N U PROFILE PUSHES AND COLLABORATIONS
+# Beta+
+Web3 PROFILE PUSHES AND COLLABORATIONS
 [![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, This is Beta+-Technologies</h1>
-<h3 align="center">A Software and Information Technology Company, ready to transforn the African Youths into the real world techs</h3>
+<h1 align="center">Hi 👋, This is Beta Technologies</h1>
+<h3 align="center">A Software and Information Technology Company, ready to transform the Youths into the real world techs</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
@@ -15,7 +15,7 @@ A B D U L L A H I. A M I N U PROFILE PUSHES AND COLLABORATIONS
 <h3 align="left">Follow us on Social Media:</h3>
 <p align="left">
 <a href="https://twitter.com/govaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="govaxon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullahi-aminu-7b2132246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahi-aminu-7b2132246" height="30" width="40" /></a>
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19747131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19747131" height="30" width="40" /></a>
 <a href="https://instagram.com/govaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techbydami" height="30" width="40" /></a>
 <a href="https://hashnode.com/@govaxon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@govaxon" height="30" width="40" /></a>
@@ -23,8 +23,8 @@ A B D U L L A H I. A M I N U PROFILE PUSHES AND COLLABORATIONS
 <a href="https://discord.gg/5007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5007" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **A Mission To inspire and transform the african youth into the real world techs**
-- 🌱 I’m currently learning **Software Engineering**
+- 🔭 I’m currently working on **A Mission To inspire and transform the youth into the real world techs**
+- 🌱 I’m currently learning **Software Engineering/Solidity Developer/Smart Contract Developer/Blockchain Developer**
 - 👯 I’m looking to collaborate on **any workspace or web dev**
 - 🤔 Looking Techs Oppunity **Unlock your dieas with us**
 - 💬 Ask me about ...
