@@ -6,9 +6,9 @@ Web3 PROFILE PUSHES AND COLLABORATIONS
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ambeeman&label=Profile%20views&color=0e75b6&style=flat" alt="ambeeman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xweb3&label=Profile%20views&color=0e75b6&style=flat" alt="0xweb3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ambeeman" alt="ambeeman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xweb3" alt="oxweb3" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/govaxon" target="blank"><img src="https://img.shields.io/twitter/follow/govaxon?logo=twitter&style=for-the-badge" alt="govaxon" /></a> </p>
 
@@ -28,7 +28,7 @@ Web3 PROFILE PUSHES AND COLLABORATIONS
 - 👯 I’m looking to collaborate on **any workspace or web dev**
 - 🤔 Looking Techs Oppunity **Unlock your dieas with us**
 - 💬 Ask me about ...
-- 📫 How to reach me: Via Email: **abdoulalbpop1@gmail.com**
+- 📫 How to reach me: Via Email: **0xweb33@gmail.com**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: **#DoingHardThings**
 -->
